@@ -20,7 +20,7 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * Different initializations (Gauss, Uniform, He, Xavier and etc.)
     * Grid Search for Hyperparamater Tuning and Experiments on Optimization
     * Computational Model for Natural Language Processing
-    * Next Word Predictions with trigrams
+    * Next Word Predictions with Trigrams
     * Embedding Layers
     * Categorical Cross Entropy with Softmax Layer
     * Word2Vec

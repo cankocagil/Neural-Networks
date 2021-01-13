@@ -6,9 +6,9 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
  * Mini Project-I
     * Single Hidden Layer Perceptron with Backprop and Analytical Derivations
     * Stochastic Gradient Descent on Full Batch
-    * Handwritten Digit Recognition with perceptron
+    * Handwritten Digit Recognition with Perceptron
     * Correlation Analysis
-    * One-Hot-Encode
+    * One-Hot-Encoding
     * Grid Search for Hyperparamater Tuning
     * Feature Representation
     * CIFAR-10 dataset 

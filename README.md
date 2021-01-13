@@ -4,7 +4,7 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
 - - - -
 
  * Mini Project-I
-    * Single Hidden Layer Perceptron with Backprop and analytical derivations
+    * Single Hidden Layer Perceptron with Backprop and Analytical Derivations
     * Stochastic Gradient Descent on Full Batch
     * Handwritten Digit Recognition with perceptron
     * Correlation Analysis

@@ -11,7 +11,7 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * One-Hot-Encoding
     * Grid Search for Hyperparamater Tuning
     * Feature Representation
-    * CIFAR-10 dataset 
+    * CIFAR-10 Dataset 
     
  * Mini Project-II
     * Cat Versus Car Detection on Visual Images
@@ -33,8 +33,8 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * Tykhonov regularization
     * KL term (Kullback-Leibler divergence)
     * Gray Scaling by Luminosity model
-    * Image Preprocessings including mean centering, standart deviations clipping
-    * TensorFlow and Keras Autoencoder Implementations
+    * Image Preprocessings Including Mean Centering, Standard Deviation Clipping
+    * TensorFlow/Keras Autoencoder Implementations
     * Image Reconstruction and Hidden Layer Feature Representation
     * Convolutional Neural Networks Analytical Derivations and Implementations with PyTorch 
     * Various Batch Normalizations

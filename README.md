@@ -8,7 +8,6 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * Stochastic Gradient Descent on Full Batch
     * Handwritten Digit Recognition with Perceptron
     * Correlation Analysis
-    * One-Hot-Encoding
     * Grid Search for Hyperparamater Tuning
     * Feature Representation
     * CIFAR-10 Dataset 
@@ -22,7 +21,7 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * Computational Model for Natural Language Processing
     * Next Word Predictions with Trigrams
     * Embedding Layers
-    * Categorical Cross Entropy with Softmax Layer
+    * Categorical Cross Entropy with Softmax
     * Word2Vec
     * Cross-Validations
     * Activation Unit Analysis

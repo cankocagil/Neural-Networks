@@ -3,7 +3,7 @@
 These repo contains my implementations to the Bilkent University EEE443/543 Neural Networks assignments. There are 3 mini projects followed by final project. The content of assignments are provided below. In general, these projects focus on Computer Vision and Natural Language Processing tasks. In the mini projects, analytical derivations of neural network architectures including fully connected layers, convolutional neural networks and recurrent neural networks (RNN, LSTM, GRU) are done with corresponding Python implementations mainly using NumPy. In the final project, vision & language models are builted with the state of the art neural network architectures for image captioning task using PyTorch.
 - - - -
 
- * Mini Project-I
+ ## Mini Project-I
     * Single Hidden Layer Perceptron with Backprop and Analytical Derivations
     * Stochastic Gradient Descent on Full Batch
     * Handwritten Digit Recognition with Perceptron
@@ -12,7 +12,7 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * Feature Representation
     * CIFAR-10 Dataset 
     
- * Mini Project-II
+ ## Mini Project-II
     * Cat Versus Car Detection on Visual Images
     * Stochastic Gradient Descent with Momentum Acceleration on Mini Batch
     * Multi-layer Neural Networks with Hyperbolic Tangent Activation Units
@@ -27,7 +27,7 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * Activation Unit Analysis
     * Optimization (AdaGrad, RMSprop, Adam and SGD) and Regularization (Dropouts and etc.) Analysis
  
- * Mini Project-III
+ ## Mini Project-III
     * Autoencoders for Unsupervised Feature Exctraction from Natural Images
     * Tykhonov regularization
     * KL term (Kullback-Leibler divergence)
@@ -44,7 +44,7 @@ These repo contains my implementations to the Bilkent University EEE443/543 Neur
     * Gradient Clipping
     * Long-Short Term Memory (LSTM) and Gated Recurrent Unit (GRU)
     
- * Final Project
+ ## Final Project
     * Convolutional Language Model for Image Captioning
     * Deep Learning for Vision & Language Translation Models
     * Transfer Learning
